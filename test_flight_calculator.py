@@ -1,3 +1,6 @@
+#REJECT -- when the github copilot chat feature generated this code for testing, it imported this
+#module which is pytest, but the pytest module wasnt even installed, which is why it wasnt working at first.
+#it was only after i installed the pytest module that the code worked and passed all tests. 
 import pytest
 
 from flight_calculator import calculate_flight_time, flight_time_table
