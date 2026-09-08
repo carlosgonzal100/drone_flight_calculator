@@ -1,3 +1,5 @@
+#AUTHOR: Carlos Gonzalez, with the assistance of github copilot chat feature and chatgpt.
+
 #Note: this program was writen using github copilots ghost writing feature by writing a text prompt
 #to describe the functionality of the desired functions i wanted to create. 
 
