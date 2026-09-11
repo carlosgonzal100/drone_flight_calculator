@@ -1,7 +1,11 @@
 Title: The Drone Flight Calculator
+
 Ram ID: R02190266
+
 Course: CSC325 26FA Software Engineering
+
 Professor:Ilknur Aydin
+
 Author: Carlos Gonzalez with the assistance of CHATGPT and GitHub Copilot
 
 Description: A Program that calculates a drone's estimated flight time based on its payload weight and generates a table
